@@ -1,0 +1,44 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Şeker Portakalı",
+      "author": "Jose Mauro De Vasconcelos",
+      "publisher": "Can Çocuk Yayınları",
+      "editionYear": 2016,
+      "bookOverview": "nffkeıorp"
+    },
+    {
+      "id": 2,
+      "name": "Küçük Prens",
+      "author": "Antoine de Saint-Exupery",
+      "publisher": "Can Çocuk Yayınları ",
+      "editionYear": 2016,
+      "bookOverview": "Hoşça git dedi tilki. Vereceğim sır çok basit İnsan ancak yüreğiyle baktığı zaman doğruyu görebilir"
+    },
+    {
+      "name": "dsf",
+      "author": "dsf",
+      "publisher": "dsf",
+      "editionYear": "dsf",
+      "bookOverview": "dsf",
+      "id": 5
+    },
+    {
+      "name": "yalnızlık",
+      "author": "yalnızlık",
+      "publisher": "yalnızlık",
+      "editionYear": "yalnızlık",
+      "bookOverview": "yalnızlık",
+      "id": 6
+    },
+    {
+      "name": "Kurgan ",
+      "author": "Hacı Şaban Boztaş ",
+      "publisher": "SÜTUN YAYINLARI ",
+      "editionYear": "2011",
+      "bookOverview": "Burası Valmeniar'ın kayıt bahçesi. Kütüphanedeki bilgilerin kaydedildiği yer",
+      "id": 7
+    }
+  ]
+}
